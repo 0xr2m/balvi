@@ -5,3 +5,5 @@ The default preference is for projects in LIC/LMIC countries, in order to help a
 Our experience is that open source or public domain projects have the greatest potential to make a positive impact, so we favour those most strongly.
 
 We do not cover indirect costs.
+
+**Currently, we are not accepting further proposals.**
